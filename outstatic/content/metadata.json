@@ -1,0 +1,102 @@
+{
+  "commit": "d4b99a8d30af261f8e0a80bb827a83b2350573dc",
+  "generated": "2024-01-22T17:02:00.643Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "95412df39fe3c5e0d5e8ff1066aaf36454a9bc5c",
+        "hash": "1625890376",
+        "path": "outstatic/content/blogs/ux-review-presentations.md"
+      },
+      "author": {
+        "name": "Jeevan Kumar",
+        "picture": "https://avatars.githubusercontent.com/u/48170144?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/blog_2-M2OT.jpeg",
+      "description": "How do you create compelling presentations that wow your colleagues and impress your managers?",
+      "publishedAt": "2024-01-22T16:55:21.163Z",
+      "slug": "ux-review-presentations",
+      "status": "published",
+      "tags": [
+        {
+          "label": "UI",
+          "value": "ui"
+        },
+        {
+          "label": "UX design",
+          "value": "uxDesign"
+        },
+        {
+          "label": "Movies",
+          "value": "movies"
+        }
+      ],
+      "title": "UX review presentations"
+    },
+    {
+      "__outstatic": {
+        "commit": "70f2d46f5a9a6e7bca4ea16c6d3bb1bb91e5ba1b",
+        "hash": "1721149694",
+        "path": "outstatic/content/blogs/grid-system-for-better-design-user-interface.md"
+      },
+      "author": {
+        "name": "Jeevan Kumar",
+        "picture": "https://avatars.githubusercontent.com/u/48170144?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/blog_1-U5MT.jpeg",
+      "description": "A grid system is a design tool used to arrange content on a webpage. It is a series of vertical and horizontal lines that create a matrix of intersecting points, which can be used to align and organize page elements. Grid systems are used to create a consistent look and feel across a website, and can help to make the layout more visually appealing and easier to navigate.",
+      "publishedAt": "2024-01-22T16:08:17.741Z",
+      "slug": "grid-system-for-better-design-user-interface",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Movies",
+          "value": "movies"
+        },
+        {
+          "label": "action movie",
+          "value": "actionMovie"
+        },
+        {
+          "label": "Marvel",
+          "value": "marvel"
+        }
+      ],
+      "title": "Grid system for better Design User Interface"
+    },
+    {
+      "__outstatic": {
+        "commit": "d4b99a8d30af261f8e0a80bb827a83b2350573dc",
+        "hash": "364615016",
+        "path": "outstatic/content/blogs/migrating-to-linear-101.md"
+      },
+      "author": {
+        "name": "Jeevan Kumar",
+        "picture": "https://avatars.githubusercontent.com/u/48170144?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/blog_3-M0ND.jpeg",
+      "description": "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get...",
+      "publishedAt": "2024-01-22T17:28:20.618Z",
+      "slug": "migrating-to-linear-101",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Movies",
+          "value": "movies"
+        },
+        {
+          "label": "UX design",
+          "value": "uxDesign"
+        },
+        {
+          "label": "UI",
+          "value": "ui"
+        }
+      ],
+      "title": "Migrating to Linear 101"
+    }
+  ]
+}
